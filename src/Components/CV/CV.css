@@ -1,0 +1,9 @@
+#fotoProfil {
+  width: 150px;
+  height: 150px;
+  border-radius: 120px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+}
